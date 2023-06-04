@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NumbersFactApp</string>
+    <string name="number_et_hint">Enter a number</string>
+    <string name="get_fact_btn_text">Get fact</string>
+    <string name="fact_tv_text">Fact about number</string>
+    <string name="get_random_btn_text">Get random fact</string>
+    <string name="snackbar_text">Invalid number</string>
+    <string name="snackbar_button_text">Ok</string>
+</resources>
